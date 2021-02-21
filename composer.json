@@ -1,6 +1,7 @@
 {
     "name": "manicozy/api-integration-sample-code-php",
     "description": "SMS Alert API wrappers",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4"
     }
