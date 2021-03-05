@@ -1,7 +1,7 @@
 {
     "name": "manicozy/api-integration-sample-code-php",
     "description": "My first packagist package",
-    "type": "package",
+    "type": "composer",
     "require": {
         "php": ">=5.3.0"
     },
