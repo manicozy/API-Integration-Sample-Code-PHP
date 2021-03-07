@@ -2,7 +2,7 @@
     "name": "manicozy/api-integration-sample-code-php",
     "require": {
         "php": ">=5.0",
-        "manicozy/api-integration-sample-code-php":"dev-master"
+        "manicozy/api-integration-sample-code-php":"dev-main"
     },
     "description": "PHP Library for sending sms"
     
