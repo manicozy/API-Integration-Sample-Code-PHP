@@ -1,4 +1,5 @@
 {
     "name": "manicozy/api-integration-sample-code-php",
     "minimum-stability":"beta"
+    "manicozy/api-integration-sample-code-php":"dev-master"
 }
