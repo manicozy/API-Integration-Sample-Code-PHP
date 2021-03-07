@@ -1,6 +1,9 @@
 {
     "name": "manicozy/api-integration-sample-code-php",
-    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0",
+        "manicozy/api-integration-sample-code-php":"dev-master"
+    },
     "description": "PHP Library for sending sms"
     
 }
