@@ -1,6 +1,6 @@
 {
     "name": "manicozy/api-integration-sample-code-php",
-    "minimum-stability": "dev-main",
+    "minimum-stability": "dev",
     "description": "PHP Library for sending sms"
     
 }
