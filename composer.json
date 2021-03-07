@@ -1,4 +1,6 @@
 {
     "name": "manicozy/api-integration-sample-code-php",
-    "manicozy/api-integration-sample-code-php":"dev-master"
+    "manicozy/api-integration-sample-code-php":"dev-main",
+    "description": "PHP Library for sending sms"
+    
 }
