@@ -4,6 +4,12 @@
         "php": ">=5.0",
         "manicozy/api-integration-sample-code-php":"dev-main"
     },
+    "autoload": {
+		"psr-4": {
+            "SMSAlert\\Lib\\": "vendor/src"
+        }
+		
+    },
     "description": "PHP Library for sending sms"
     
 }
