@@ -1,6 +1,6 @@
 {
     "name": "manicozy/api-integration-sample-code-php",
-   "manicozy/api-integration-sample-code-php":"gh-pages",	
+   "manicozy/api-integration-sample-code-php":"dev-gh-pages",	
     "autoload": {
 		"psr-4": {
             "SMSAlert\\Lib\\": "vendor/src"
